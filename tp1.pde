@@ -39,7 +39,7 @@ void setup(){
   fill(150,255,0);
   ellipse(350,200,55,55);
     //verde cian
-  fill(0,255,200);
+  fill(0,255,170);
   ellipse(280,325,55,55);
     //ceruleo
   fill(0,180,255);
