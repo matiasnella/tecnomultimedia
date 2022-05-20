@@ -1,3 +1,4 @@
+//por alguna razon que se me escapa, el trabajo no anda al querer generar imagenes random. funcionaba todo correcto con cualquier imagen estatica.
 PFont fuente;
 int NumeroDeImagenes = 5;
 int NumeroRandom;
